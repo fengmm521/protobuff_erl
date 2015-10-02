@@ -1,0 +1,2 @@
+-record(person, {name, address, phone_number, age, location}).
+-record(location, {region, country}).
